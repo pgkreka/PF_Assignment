@@ -1,0 +1,16 @@
+.bg-color {
+    background-color: #282c34;
+}
+
+.f-color {
+    color: white;
+}
+
+.min-height {
+    min-height: 15vh;
+}
+
+.js-content-center {
+    justify-content: center;
+}
+
